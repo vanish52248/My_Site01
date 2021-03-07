@@ -1,0 +1,102 @@
+body{
+    background-color:#FAF5ED;
+}
+
+main{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header__logo{
+    background-color: #5A442A;
+}
+
+#mv{
+    display:flex;
+    align-items: center;
+    margin-top: 20%;
+    max-width: 960px;
+    margin: 0 auto;
+    height: 84px;
+    color: #FFFFFF;
+    font-size: 23px;
+    font-weight: normal;
+    font-family: Ÿà–¾’©‘Ì, YuMincho, "Ÿà–¾’© Medium", "Yu Mincho Medium", Ÿà–¾’©, "Yu Mincho", serif;;
+}
+
+#mv span{
+    font-size: 36px;
+}
+
+header img{
+    width: 100%;
+}
+
+.index1{
+    color: #707070;
+    font-size: 27px;
+    font-family: YuMincho, Ÿà–¾’©, "Yu Mincho", Ÿà–¾’©, "Yu Mincho", serif;
+    margin-top: 46px;
+    margin-bottom: 29px;
+}
+.index1 span{
+    font-size: 41px;
+}
+
+section{
+    display: flex;
+}
+
+section p{
+    font-family: Ÿà–¾’©‘Ì, YuMincho, "Ÿà–¾’© Medium", "Yu Mincho Medium", Ÿà–¾’©, "Yu Mincho", serif;
+    color:#707070;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+
+.icon1 , .icon2 , .icon3{
+    width: 480px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+.icon1{
+    margin-bottom: 130px;
+}
+
+.icon2{
+    margin-bottom: 30px;
+}
+
+.index2{
+    font-size: 27px;
+    text-align: center;
+    margin: 60px 0 50px 0;
+}
+
+.index2 a{
+    font-family: Ÿà–¾’©‘Ì, YuMincho, Ÿà–¾’©, "Yu Mincho", Ÿà–¾’©, "Yu Mincho", serif;
+    color: #707070;
+    text-decoration: none;
+    border-bottom: 2px solid;
+}
+
+.index2 span{
+    font-size: 41px;
+}
+
+.index2 a:hover{
+    border-bottom: none;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    font-size: 18px;
+    font-family: Ÿà–¾’©‘Ì, YuMincho, "Ÿà–¾’© Medium", "Yu Mincho Medium", Ÿà–¾’©, "Yu Mincho", serif;;
+    color:#FAFCF2;
+    background-color : #5A442A;
+    height: 62px;
+}
